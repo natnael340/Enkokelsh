@@ -1,0 +1,587 @@
+[
+  {
+    "id": 0,
+    "question": "I flop and bounce and swing around on the floor or on some sticks and I sometimes look like I don’t have bones. I desperately need a white powder to do what needs to be done, and looking at me you might wonder why I look like I am about to go swimming. Who am I?",
+    "answer": "gymnast",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+
+  {
+    "id": 1,
+    "question": "I carry a lot of secrets, happy or sad, I drive or walk to my destination rain or shine to make sure I give you what is truly yours. Everything that I bring with me is destined for only for one place which is decided in advance. Who am I?",
+    "answer": "mailman",
+    "category": "People",
+    "hint": ["In the old days I was the middle man for communction."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 2,
+    "question": "I can laugh, I can cry, I can be the flying hero in the sky, I can be the devil, I can be be a saint, I can do just about anything what you want me to be and I still get paid. Who am I?",
+    "answer": "actor/actress",
+    "category": "People",
+    "hint": ["Movie/Drama", "Almost everyone knows me"],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 3,
+    "question": "I can be scary, I can be entertaining, I cover my face so it will be impossible for you to recognize me and I create animals from plastic. Who am I?",
+    "answer": "clown",
+    "category": "People",
+    "hint": ["Haloween"],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 4,
+    "question": "I purposefully give you problems yet I can also help you solve your problems, I give you instructions and guide yet I criticize you and point out your mistakes as well. I may know numbers, I may know how to sing or dance and anything in between. Who am I?",
+    "answer": "teacher",
+    "category": "People",
+    "hint": [
+      "You had me at list once.",
+      "I may give you something to work by yourself"
+    ],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 6,
+    "question": "I can take the role of an electrician, a carpenter, a pipe lifter or a driver. I may even carry you, and if I do, you might just call me a hero. You can count on me any time of the day. Who am I?",
+    "answer": "firefighter",
+    "category": "People",
+    "hint": ["I save people", "always carry water with me when I'm working"],
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 7,
+    "question": "I travel, entertain, I am also called the boss, the guardian or the chief and many times I have to make the most and the biggest decisions. Who am I?",
+    "answer": "President",
+    "category": "People",
+
+    "hint": ["I stand for the people", "The people elects me"],
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 8,
+    "question": "I can help a minor, I can help a senior, I can take care of you and no matter what your mood is and I always give you a happy face. I probably won’t give you any advice, but I am always grateful when you give me tips. Who am I?",
+    "answer": "waiter/waitress",
+    "category": "People",
+
+    "hint": ["If you wanna call me just clap your hands."],
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 9,
+    "question": "I wash, cut and shave a dozen times a day yet I still have lots of hair. Who am I?",
+    "answer": "Barber",
+    "category": "Things",
+
+    "hint": [
+      "I can make you handsome/beautiful.",
+      "I can only work on your head"
+    ],
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 10,
+    "question": "mother but I have no son, no daughter nor a husband. Who am I?",
+    "answer": "Earth",
+    "category": "People",
+    "hint": ["7.8billion people lives on me", "I give you food and water"],
+
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 11,
+    "question": "We work in pairs, we drive around, we take and pick up what you don’t want. Who are we?",
+    "answer": "Garbage collectors",
+    "category": "People",
+    "hint": ["I'm collection of two words", "I collect things"],
+    "amount": 150,
+    "level": 2
+  },
+  {
+    "id": 12,
+    "question": "I have to communicate with different people, and always keep them in the loop on important matters. I deal with a lot of buttons, knobs and numbers. I am surrounded by metal and I have a duty to carry humans with safety and comfort. Who am I?",
+    "answer": "Pilot",
+    "category": "People",
+    "hint": ["you find us on a plane.", "we wear a fancy suit"],
+
+    "amount": 150,
+    "level": 2
+  },
+  {
+    "id": 14,
+    "question": "I whip and splash and flip all sorts of things. I mix and combine so much. And what I do is considered an art that after I make it everybody wants to take part. And when they do everything that I made is completely destroyed and ripped apart, which I am very pleased to see. Who am I?",
+    "answer": "Chef",
+    "category": "People",
+    "hint": ["I'm sometimes make your belly full."],
+    "amount": 150,
+    "level": 2
+  },
+  {
+    "id": 15,
+    "question": "I can take parts of Africa, Egypt, Argentina and almost any part of the world in my hands and shove them into a box and move them all around. Who am I?",
+    "answer": "Mailman",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 150,
+    "level": 2
+  },
+  {
+    "id": 16,
+    "question": "Sometime you are so relieved to see me, and other times you run from me in fear. Sometimes I stop you and sometimes I let you go, but whenever you need me I am always a quick call away. Who am I?",
+    "answer": "Police Office",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 150,
+    "level": 2
+  },
+  {
+    "id": 17,
+    "question": "I tap and I spin, I wiggle and I twist, and my movements are dictated by external sounds. Who am I?",
+    "answer": "Dancer",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 18,
+    "question": "I made little critters swarm, I made bits of ice burn, I killed a bunch of cows and even made water retreat from me. Who am I?",
+    "answer": "Moses",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 19,
+    "question": "I make something that I can destroy too, I cut and shape things that could’ve been used for a barbeque. Who am I?",
+    "answer": "Carpenter",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 20,
+    "question": "I greet you with my best smile, and you bring me whatever you’d like. I punch and hit a bunch of buttons and when it’s all said and done we make a fair trade. Who am I?",
+    "answer": "Cashier",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 22,
+    "question": "I am small, I have wings, I carry a weapon. I target people and once I do, they’re usually glad I did. Who am I?",
+    "answer": "Cupid",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 23,
+    "question": "I married your sister, I married your coworker, I may have even married you, and I marry more people all the time, yet I have not gotten a divorce and I am still single. Who am I?",
+    "answer": "Priest",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 24,
+    "question": "I can be the father or I can be the son, we go by the same name. Hearing my name you might think I am related to a tree or a flower. And I was once a very important figure in the United States. Who am I?",
+    "answer": "George Bush",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 25,
+    "question": "I get hammered, I get axed, I get trapped, poisoned and even blasted but there is never any blood that you see in the scene. I am one cool cat, and seemingly invincible. Who am I?",
+    "answer": "Tom",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 26,
+    "question": "I'm sister but I may not have any siblings. Who am I?",
+    "answer": "Nun",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 27,
+    "question": "My favorite foods are beer and doughnuts, I went to space and won a Grammy, I love to fall asleep at work and I am a father of 3. Who am I?",
+    "answer": "Homer",
+    "category": "People",
+    "hint": ["From the movie simpson"],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 28,
+    "question": "I'm born warrior, a princess and I have a rope that can destroy lies. Who am I?",
+    "answer": "Wonder Woman",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 29,
+    "question": "father but I don’t have a child nor a wife. Who am I?",
+    "answer": "Preist",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 31,
+    "question": "I have wings and a wand and when you lose something gross l make sure to leave you the prize that you deserve. Who am I?",
+    "answer": "Tooth Fairy",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 33,
+    "question": "I'm a man but I swing from place to place  and walk upside down just like a critter. Who am I?",
+    "answer": "Spiderman",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 34,
+    "question": "I travel with deer all over the world and make the night special for all boys and girls. I happily drink milk and eat your cookies and then I give you all sorts of goodies. Who am I?",
+    "answer": "Santa",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 37,
+    "question": "You are my sister but I am not your sister but somehow we are siblings. Who am I?",
+    "answer": "Brother",
+    "category": "People",
+    "hint": ["I'm usually found in the gym."],
+    "amount": 50,
+    "level": 0
+  },
+  {
+    "id": 38,
+    "question": "You go at red, but stop at green. What am I?",
+    "answer": "Watermelon",
+    "amount": 100,
+    "category": "Food",
+    "hint": [],
+    "level": 1
+  },
+  {
+    "id": 39,
+    "question": "I’m tall when I’m young, and I’m short when I’m old. What am I?",
+    "answer": "Candle",
+    "category": "Other",
+    "hint": ["you use me in night", "I brighten your night"],
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 40,
+    "question": "I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?",
+    "answer": "Coin",
+
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 41,
+    "question": "I help you from your head to your toe. The more I work, the smaller I grow. What am I?",
+    "answer": "Soap",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 42,
+    "question": "I can fly but have no wings. I can cry but I have no eyes. Wherever I go, darkness follows me. What am I?",
+    "answer": "Clouds",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 43,
+    "question": "I’m (usually) white and used for cutting and grinding. When I’m damaged, humans usually remove me or fill me. For most animals I am a useful tool. What am I?",
+    "answer": "Tooth",
+    "amount": 100,
+    "hint": ["Remove when damaged"],
+    "level": 1
+  },
+  {
+    "id": 45,
+    "question": "I’m where yesterday follows today and tomorrow is in the middle. What am I?",
+    "answer": "dictionary",
+    "amount": 100,
+    "hint": ["Today, tomorrow, yesterday"],
+    "level": 1
+  },
+  {
+    "id": 46,
+    "question": "I’m a god, a planet, and I measure heat. What am I?",
+    "answer": "Mercury",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 47,
+    "question": "I can never be thrown but I can be caught. Ways to lose me are always being sought. What am I?",
+    "answer": "cold",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 48,
+    "question": "I have branches, but no fruit, trunk or leaves. What am I?",
+    "answer": "bank",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 49,
+    "question": "A seed with three letters in my name. Take away two and I still sound the same. What am I?",
+    "answer": "pea",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 50,
+    "question": "I’m an instrument through which sounds are made, and yet, not something that can be played. What am I?",
+    "answer": "Your voice",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 51,
+    "question": "The more you take, the more you leave behind. What am I?",
+    "answer": "Footsteps",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 52,
+    "question": "I have many teeth but I can’t bite. I’m often used early but rarely at night. What am I?",
+    "answer": "comb",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 53,
+    "question": "I have two hands, but I can not scratch myself. What am I?",
+    "answer": "clock",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 54,
+    "question": "I am the beginning of everything, the end of everywhere. I’m the beginning of eternity, the end of time and space. What am I?",
+    "answer": "e",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 55,
+    "question": "I can wave my hands at you, but I never say goodbye. You are always cool when with me, even more so when I am high! What am I?",
+    "answer": "electric fan",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 56,
+    "question": "If you have me, you want to share me. If you share me, you haven’t got me. What am I?",
+    "answer": "Secret",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 57,
+    "question": "What can be heard and caught but never seen?",
+    "answer": "remark",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 58,
+    "question": "I follow you all the time and copy your every move, but you can’t touch me or catch me. What am I?",
+    "answer": "shadow",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 59,
+    "question": "Always in you, Sometimes on you; If I surround you, I can kill you. What am I?",
+    "answer": "Water",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 60,
+    "question": "My life can be measured in hours, I serve by being devoured. Thin, I am quick. Fat, I am slow. Wind is my foe. What am I?",
+    "answer": "candle",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 61,
+    "question": "People buy me to eat, but never eat me. What am I?",
+    "answer": "Plates and cutlery",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 62,
+    "question": "People make me, save me, change me, raise me. What am I?",
+    "answer": "Money",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 63,
+    "question": "I am served at a table, In gatherings of two or four. Served small, white, and round. You’ll love some, and that’s part of the fun. What am I?",
+    "answer": "ping-pong ball",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 64,
+    "question": "The more you take away, the more I become. What am I?",
+    "answer": "hole",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 65,
+    "question": "I have lakes with no water, mountains with no stone, and cities with no buildings. What am I?",
+    "answer": "map",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 66,
+    "question": "I’m tall when I’m young, I’m short when I’m old. What am I?",
+    "answer": "Pencil",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 67,
+    "question": "I have 13 hearts, but no other organs? What am I?",
+    "answer": "deck of cards",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 68,
+    "question": "I have eyes but I can’t see. I live in the dark until you need me. What am I?",
+    "answer": "potato",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 69,
+    "question": "I can be cracked, I can be made. I can be told, I can be played. What am I?",
+    "answer": "joke",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 70,
+    "question": "What is as light as a feather, yet no person can hold it for long. What am I?",
+    "answer": "breath",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 71,
+    "question": "Forward I am heavy, but backward I am not. What am I?",
+    "answer": "The word “not",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 72,
+    "question": "You heard me before, and then again. Afterward, I die, until you call me again. What am I?",
+    "answer": " echo",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 73,
+    "question": "Take off my skin and I won’t cry, but you will! What am I?",
+    "answer": " onion",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 74,
+    "question": "If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",
+    "answer": "mirror",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 75,
+    "question": "I have a bed but I never sleep. I have a mouth but I never speak. What am I?",
+    "answer": "River",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 76,
+    "question": "I have a little house in which I live all alone. It has no doors or windows, and if I want to go out I must break through the wall. What am I?",
+    "answer": "baby chick in an egg",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 77,
+    "question": "I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?",
+    "answer": "Fire",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 78,
+    "question": "Two in a corner, 1 in a room, 0 in a house, but 1 in a shelter. What am I?",
+    "answer": "r",
+    "amount": 100,
+    "level": 1
+  },
+  {
+    "id": 79,
+    "question": "I sound like one letter but I’m written with three. I show you things when you look through me. What am I?",
+    "answer": "Eye",
+    "amount": 100,
+    "level": 1
+  }
+]
